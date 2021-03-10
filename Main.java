@@ -17,8 +17,8 @@ public class Main {
         int a =1, b = 2 , c =3;
         System.out.print( a > b ? "True" : a + b + c );
 
-        String st1 = "Привет!";
-        String st2 = "Привет1";
+        String st1 = "Привет!!";
+        String st2 = "Привет2";
 
         System.out.println(st1.hashCode());
         System.out.println(st2.hashCode());
